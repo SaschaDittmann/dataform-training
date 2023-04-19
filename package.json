@@ -1,6 +1,6 @@
 {
   "name": "training-repo",
   "dependencies": {
-    "@dataform/core": "2.0.1"
+    "@dataform/core": "2.4.2"
   }
 }
