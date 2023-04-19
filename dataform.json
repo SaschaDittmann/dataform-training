@@ -1,6 +1,6 @@
 {
-  "defaultSchema": "dataform_training",
-  "assertionSchema": "dataform_training",
+  "defaultSchema": "hello_df",
+  "assertionSchema": "hello_df",
   "warehouse": "bigquery",
   "defaultDatabase": "elt-demos",
   "defaultLocation": "europe-west1"
