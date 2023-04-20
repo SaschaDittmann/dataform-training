@@ -1,6 +1,6 @@
 {
   "defaultSchema": "hello_df",
-  "assertionSchema": "hello_df",
+  "assertionSchema": "hello_df_assertions",
   "warehouse": "bigquery",
   "defaultDatabase": "elt-demos",
   "defaultLocation": "europe-west1"
